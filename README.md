@@ -1,6 +1,6 @@
 # Profil Steam — Carte HTML Sémantique
 
-Une maquette de carte de profil inspirée de **Steam** (**LordR0gue4**, niveau **42**, basé à **Dijon, France**), construite avec des balises **HTML5 sémantiques** tout en conservant les classes CSS pour la mise en page (`style.css`).
+Une maquette de carte de profil inspirée de **Steam** (**LordR0gue4**, niveau **23**, basé à **Dijon, France**), construite avec des balises **HTML5 sémantiques** tout en conservant les classes CSS pour la mise en page (`style.css`).
 
 ## Fonctionnalités et sections
 
